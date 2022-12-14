@@ -1,2 +1,12 @@
-
+.flexbox{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.item{
+    flex : 1;
+    width: 200px;
+    height: 70px;
+}
 /* Your CSS Code here. */
