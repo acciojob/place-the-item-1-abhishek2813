@@ -1,12 +1,9 @@
 .holder{
     display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    width: 100%;
+   flex-wrap: nowrap;
+	align-items: center;
+	justify-content: space-between;
 }
-.item{
-    display: flex;
-    width: 200px;
-    height: 70px;
-}
+
+
 /* Your CSS Code here. */
